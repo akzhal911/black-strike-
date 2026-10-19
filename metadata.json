@@ -1,0 +1,6 @@
+{
+  "name": "BLACK STRIKE: REBORN",
+  "description": "Modern cinematic 3D tactical first-person action shooter with daylight visuals, smart AI, interactive urban districts, progressive tutorial, and checkpoint-based campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
